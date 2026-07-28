@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://holidaygiftguide.com/</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Product Pages -->
+    <url>
+        <loc>https://holidaygiftguide.com/products/premium-fleece-blanket.html</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/products/photo-pillow.html</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/products/graphic-tshirt.html</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/products/weighted-blanket.html</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/products/custom-throw-pillow-cover.html</loc>
+        <lastmod>2026-01-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Guide Pages -->
+    <url>
+        <loc>https://holidaygiftguide.com/guides/how-to-design-custom-blankets.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/guides/custom-pillow-size-guide.html</loc>
+        <lastmod>2026-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/guides/t-shirt-printing-techniques.html</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Blog Articles -->
+    <url>
+        <loc>https://holidaygiftguide.com/blog/ultimate-guide-custom-blankets.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/creative-pillow-design-ideas.html</loc>
+        <lastmod>2026-01-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/2026-tshirt-design-trends.html</loc>
+        <lastmod>2026-01-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/starting-pod-business-guide.html</loc>
+        <lastmod>2026-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/blanket-materials-comparison.html</loc>
+        <lastmod>2026-01-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/marketing-custom-products.html</loc>
+        <lastmod>2026-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/custom-blanket-gift-ideas.html</loc>
+        <lastmod>2026-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/pod-quality-control-tips.html</loc>
+        <lastmod>2025-12-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/scaling-pod-business.html</loc>
+        <lastmod>2025-12-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/holiday-blanket-trends-2026.html</loc>
+        <lastmod>2025-12-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/pod-niche-research.html</loc>
+        <lastmod>2025-12-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://holidaygiftguide.com/blog/customer-service-excellence-pod.html</loc>
+        <lastmod>2025-12-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
