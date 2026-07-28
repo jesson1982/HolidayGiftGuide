@@ -51,7 +51,7 @@ Disallow: /admin/
 Disallow: /private/
 
 # Sitemap location
-Sitemap: https://holidaygiftguide.com/sitemap.xml
+Sitemap: https://holidaygiftguide.shop/sitemap.xml
 
 # Crawl delay (optional, adjust as needed)
 Crawl-delay: 1
