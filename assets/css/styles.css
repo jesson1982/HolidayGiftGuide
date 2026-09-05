@@ -607,3 +607,46 @@ a:focus, button:focus {
         font-size: 12pt;
     }
 }
+
+/* ===== layout-compat patch (Neve-style E-E-A-T layer) ===== */
+.breadcrumb {
+  background: var(--white); border-bottom: 1px solid var(--border-color);
+  padding: .8rem 0; font-size: .9rem; color: var(--light-text);
+}
+.breadcrumb a { color: var(--accent-color); text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+.crumb-sep { margin: 0 .5rem; color: var(--border-color); }
+.bluf-wrap {
+  background: #eef6fb; border-left: 4px solid var(--accent-color);
+  border-radius: 6px; padding: 1.1rem 1.4rem; margin: 1.5rem 0;
+}
+.bluf-wrap p { margin: .35rem 0; }
+.bluf-wrap strong { color: var(--primary-color); }
+.table-wrap { overflow-x: auto; margin: 2rem 0; }
+.data-table { width: 100%; border-collapse: collapse; background: var(--white); font-size: .95rem; box-shadow: var(--shadow); }
+.data-table th { background: var(--primary-color); color: #fff; text-align: left; padding: .75rem 1rem; font-weight: 600; }
+.data-table td { border-bottom: 1px solid var(--border-color); padding: .65rem 1rem; }
+.data-table tr:nth-child(even) td { background: var(--background-color); }
+.author-box {
+  display: flex; gap: 16px; align-items: flex-start; margin: 2.5rem 0 0;
+  padding: 22px; border: 1px solid var(--border-color); border-radius: 8px; background: var(--white); box-shadow: var(--shadow);
+}
+.author-avatar {
+  width: 54px; height: 54px; border-radius: 50%; background: var(--secondary-color); color: #fff;
+  display: flex; align-items: center; justify-content: center; font-weight: 700; flex: 0 0 auto; font-size: 1.1rem;
+}
+.author-info { flex: 1; }
+.author-name { font-weight: 700; color: var(--primary-color); margin: 0 0 .3rem; }
+.author-bio { color: var(--light-text); font-size: .92rem; margin: 0; line-height: 1.55; }
+.featured-img {
+  width: 100%; height: auto; max-height: 420px; object-fit: cover;
+  border-radius: 8px; margin: 1.5rem 0; box-shadow: var(--shadow);
+}
+.article-note {
+  background: var(--white); border-left: 4px solid var(--secondary-color);
+  padding: 14px 18px; border-radius: 6px; margin: 1.5rem 0;
+  color: var(--light-text); font-size: .95rem;
+}
+@media (max-width: 640px) {
+  .author-box { flex-direction: column; }
+}
