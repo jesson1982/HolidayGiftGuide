@@ -213,4 +213,28 @@
         <priority>0.3</priority>
     </url>
 
+  <url>
+    <loc>https://holidaygiftguide.shop/blog/custom-blanket-care-guide.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://holidaygiftguide.shop/blog/holiday-gift-shipping-timeline.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://holidaygiftguide.shop/blog/how-to-price-custom-gifts.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://holidaygiftguide.shop/blog/best-photos-for-custom-pillows.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
